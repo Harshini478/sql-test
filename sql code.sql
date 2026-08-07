@@ -10,5 +10,5 @@ VALUES
     (1, 'Alex', 'Johnson', 20, 'Computer Science'),
     (2, 'Emma', 'Smith', 21, 'Data Science'),
     (3, 'Liam', 'Martinez', 19, 'Mechanical Engineering'),
-    (4, 'Olivia', 'Brown', 22, 'Mathematics'),
+    (4, 'Harshini', 'Brown', 22, 'Mathematics'),
     (5, 'William', 'Davis', 20, 'Business Administration');
